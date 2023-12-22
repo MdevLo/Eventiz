@@ -15,7 +15,7 @@ const Navbar = () => {
         <li
           key={link.route}
           className={`${
-            isActive && 'text-primary-100'} flex-center p-medium-16 whitespace-nowrap`}
+            isActive && 'text-blue-700'} flex-center p-medium-16 whitespace-nowrap`}
         >
           <Link href={link.route}>{link.label}</Link>
         </li>

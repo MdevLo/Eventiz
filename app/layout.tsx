@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: 'Eventiz',
   description: "Platforme d'événement en ligne",
   icons: {
-    icon: 'Eventiz.ico'
+    icon: '/assets/images/eventizLogo.png'
   }
 }
 

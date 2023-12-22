@@ -7,14 +7,14 @@ const Footer = () => {
       <div className="flex-center wrapper flex-between flex flex-col gap-4 p-5 text-center sm:flex-row">
         <Link href='/'>
           <Image 
-            src="/assets/images/log.png"
+            src="/assets/images/eventizLogo.png"
             alt="logo"
             width={128}
             height={38}
           />
         </Link>
 
-        <p>2024 Eventiz. Tous Droits réservés.</p>
+        <p className="font-semibold">2024 Eventiz. Tous Droits réservés.</p>
       </div>
     </footer>
   )

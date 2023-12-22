@@ -12,9 +12,9 @@ const Header = () => {
       <div className="wrapper flex items-center justify-between">
         <Link href="/" className="w-36">
           <Image
-            src="/assets/images/log.png"
+            src="/assets/images/eventizLogo.png"
             alt="logo eventiz"
-            width={128}
+            width={228}
             height={38}
             className="w-38"
           />
